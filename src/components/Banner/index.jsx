@@ -9,7 +9,7 @@ export default function Banner() {
         <div className={styles.banner}>
             <div className={styles.apresentacao}>
                 <h1 className={styles.titulo}>Hello World!</h1>
-                <p className={styles.paragrafo}>Hey Guys! I'm Jaime Filho, and I'm learning about Routs in React</p>
+                <p className={styles.paragrafo}>Hey Guys! I'm Jaime Filho, and I've been learning about Routes in React</p>
             </div>
             <div className={styles.imagens}>
                 <img className={styles.circuloColorido} src={circuloColorido} aria-hidden={true} />
